@@ -1,5 +1,5 @@
--- Banco de Dados 1 - Oficina Mecânica
--- Crie o banco "oficina_mecanica" no pgAdmin e execute este script dentro dele
+-- Banco de Dados - Oficina Mecânica
+-- Cria o banco "oficina_mecanica" no pgAdmin 
 
 -- Apagando as tabelas (caso já existam)
 DROP TABLE IF EXISTS ordem_servico_peca;
